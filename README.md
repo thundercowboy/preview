@@ -1,11 +1,21 @@
-- 🐧 - Prazer, seja bem vindo!
-- 🤠 - Meu nome é Raphael Iglesias, mas geralmente me chamam pelo apelido de Cowboy.
-- 📚 - Sou iniciante no aprendizado de Programação e tenho feito esse processo de forma autodidata. Planejo fazer alguma faculdade desse tema para me especializar, em breve!
-- 🎓 - Atualmente estou cursando ADMINISTRAÇÃO na UFRRJ, e aprendido Algoritmos e Python através dos livros.
-- 🎯 - Meu objetivo é de sempre me envolver em projetos que me desenvolvam e que me deem conhecimento.
-- 📫 - Para demais contato - E-mail: raphael.pedroso97@hotmail.com
+# Seja bem vindos! 🚀
+> Sobre mim:
 
-<!---
-SheogorathX/SheogorathX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓
+
+  Meu nome é Raphael Iglesias (apelidado de Cowboy) sou do interior do Rio de Janeiro, na cidade de Paraíba do Sul. Sou estudante de administração na Universidade Federal Rural do Rio de Janeiro (UFRRJ - ITR). Sou apaixonado em programação apesar de aprender de forma autodidata e sem um trajeto especifico.
+
+- 🎯
+
+  Meu objetivo é aprender e adquirir conhecimento sempre! Gosto de projetos que me desafiem e me tirem do meu plano pois é a melhor forma de absorver conteúdos e conhecimento.
+  Estou aberto à projetos e sempre em busca de trabalho a se fazer.
+  Meu objetivo na programação é aprender sobre sistemas embarcados e, futuramente, trabalhar nesta área.
+
+## Contatos: 
+
+- 📫 
+
+Estou sempre aberto à novos projetos e parceria, por favor, não deixe de me contactar caso precise.
+
+Para demais contato:
+E-mail: raphael.pedroso97@hotmail.com
