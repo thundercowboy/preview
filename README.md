@@ -34,3 +34,11 @@ Estou sempre aberto à novos projetos e parceria, por favor, não deixe de me co
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
+
+### 📈 Miscs and Stats:
+
+<div align="center">
+  <a href="https://github.com/thundercowboy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thundercowboy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundercowboy&layout=compact&langs_count=7&theme=dracula"/>
+</div>
