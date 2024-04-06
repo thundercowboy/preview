@@ -13,31 +13,24 @@
 ### 📫 Contatos: 
 
 Estou sempre aberto à novos projetos e parceria, por favor, não deixe de me contactar caso precise.
-
-<a href="mailto:raphael.pedroso97@hotmail.com" alt="Hotmail">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-
-<a href="https://br.linkedin.com/in/raphael-pedroso-662297238" alt="Linkedin">
+<p align="center">
+  <a href="https://br.linkedin.com/in/raphael-pedroso-662297238" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
   
- <a href="https://twitter.com/Raph_Pedroso" alt="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-3b72e6?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 
-### 👨‍💻 Possuo conhecimentos em:
+### 👨‍💻 Techs:
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,mysql,py,r,vscode,lua" alt="Raphael's Skills"/>
+  </a>
 </p>
 
 ### 📈 Miscs and Stats:
 
 <div align="center">
   <a href="https://github.com/thundercowboy">
-  <img height="180em" img width"400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundercowboy&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundercowboy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
