@@ -24,7 +24,7 @@ Estou sempre aberto à novos projetos e parceria, por favor, não deixe de me co
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,mysql,py,r,vscode,lua" alt="Raphael's Skills"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,html,mysql,vscode" alt="Raphael's Skills"/>
   </a>
 </p>
 
