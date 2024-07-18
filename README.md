@@ -30,7 +30,11 @@ Estou sempre aberto à novos projetos e parceria, por favor, não deixe de me co
 
 ### 📈 Miscs and Stats:
 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thundercowboy&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thundercowboy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+<br/>
+
 <div align="center">
-  <a href="https://github.com/thundercowboy">
-  <img height="200em" img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundercowboy&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img align="center" height="200em" img width="400em" alt="Github Stats" src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=thundercowboy&layout=compact&theme=dracula&langs_count=9&count_private=true"/>
+<br/>
