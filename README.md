@@ -2,13 +2,13 @@
 
 ### 🎓 Sobre mim:
 
-  Meu nome é Raphael Iglesias (apelidado de Cowboy) sou do interior do Rio de Janeiro, na cidade de Paraíba do Sul. Sou estudante de administração na Universidade Federal Rural do Rio de Janeiro (UFRRJ - ITR). Sou apaixonado em programação apesar de aprender de forma autodidata e sem um trajeto especifico.
-
+  Meu nome é Raphael Iglesias (apelidado de Cowboy) sou do interior do Rio de Janeiro, na cidade de Paraíba do Sul. Sou estudante de administração na Universidade Federal Rural do Rio de Janeiro (UFRRJ - ITR) e Engenharia de Software na Estacio (EAD). 
+  
 ### 🎯 Objetivos e Metas:
 
   Meu objetivo é aprender e adquirir conhecimento sempre! Gosto de projetos que me desafiem e me tirem do meu plano pois é a melhor forma de absorver conteúdos e conhecimento.
   Estou aberto à projetos e sempre em busca de trabalho a se fazer.
-  Meu objetivo na programação é aprender sobre sistemas embarcados e, futuramente, trabalhar nesta área.
+  Meu objetivo na programação é aprender sobre fullstack e, futuramente, trabalhar nesta área.
 
 ### 📫 Contatos: 
 
@@ -22,19 +22,28 @@ Estou sempre aberto à novos projetos e parceria, por favor, não deixe de me co
 
 ### 👨‍💻 Techs:
 
+#### Dominantes:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,cs,py,js,html,css,mysql,vscode,linux,raspberrypi" alt="Raphael's Skills"/>
+    <img src="https://skillicons.dev/icons?i=git,java,cs,mysql,vscode" alt="Raphael's dominant Skills"/>
+  </a>
+</p>
+
+#### Ja trabalhei/fiz projetos:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,linux,raspberrypi" alt="Raphael's used Skills"/>
   </a>
 </p>
 
 ### 📈 Miscs and Stats:
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thundercowboy&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thundercowboy&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thundercowboy&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thundercowboy&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 <br/>
 
 <div align="center">
-<img align="center" height="200em" img width="400em" alt="Github Stats" src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=thundercowboy&layout=compact&theme=dracula&langs_count=9&count_private=true"/>
+<img align="center" height="200em" img width="400em" alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thundercowboy&theme=radical"/>
+<img align="center" height="200em" img width="400em" alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thundercowboy&theme=radical"/>
 <br/>
