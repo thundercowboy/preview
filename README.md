@@ -32,7 +32,7 @@ Estou sempre aberto à novos projetos e parceria, por favor, não deixe de me co
 #### Ja trabalhei/fiz projetos:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,linux,raspberrypi" alt="Raphael's used Skills"/>
+    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,linux,raspberrypi" alt="Raphael's used Skills"/>
   </a>
 </p>
 
